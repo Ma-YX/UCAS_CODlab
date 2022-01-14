@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+   </db_ref_list>
+   <zoom_setting>
+   </zoom_setting>
+   <column_width_setting>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject type="array" fp_name="/reg_file_test/test_info">
+      <obj_property name="ElementShortName">test_info[127:0]</obj_property>
+      <obj_property name="ObjectShortName">test_info[127:0]</obj_property>
+      <obj_property name="Radix">ASCIIRADIX</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/reg_file_test/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/reg_file_test/rst">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/reg_file_test/waddr">
+      <obj_property name="ElementShortName">waddr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">waddr[4:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/reg_file_test/wdata">
+      <obj_property name="ElementShortName">wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/reg_file_test/wen">
+      <obj_property name="ElementShortName">wen</obj_property>
+      <obj_property name="ObjectShortName">wen</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/reg_file_test/raddr1">
+      <obj_property name="ElementShortName">raddr1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">raddr1[4:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/reg_file_test/rdata1">
+      <obj_property name="ElementShortName">rdata1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata1[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/reg_file_test/raddr2">
+      <obj_property name="ElementShortName">raddr2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">raddr2[4:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/reg_file_test/rdata2">
+      <obj_property name="ElementShortName">rdata2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata2[31:0]</obj_property>
+   </wvobject>
+</wave_config>
